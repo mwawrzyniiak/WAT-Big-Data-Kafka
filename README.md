@@ -7,5 +7,5 @@ The task is divided into two elements:
   - An application that downloads data from an API  
   - Analysis of downloaded data. Download 3 cities whose average difference between the current temperature and the felt temperature is the     largest  
 
-# DATA without last column:
-https://www.kaggle.com/cmqub19/763k-ios-app-info
+# DATA from:
+https://openweathermap.org/current
